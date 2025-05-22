@@ -1,6 +1,21 @@
-# city-presentation-website
-This project is a website showcasing my city, developed to learn and implement API usage, JavaScript frameworks, PHP, HTML, and CSS. The website aims to provide information about the city’s attractions, culture, and history, while practicing modern web development techniques.
+# City Guide Web Application
 
+This project is a web application that showcases my city’s main attractions, culture, and history using modern web technologies.
+
+![Homepage Screenshot](images/homepage.png)  
+![Attractions Page](images/formcontrolpage.png)
+
+## Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+
+## How to Use  
+Open the `AnaSayfa.html` file in your browser to explore the site.
+
+## What I Learned  
+Through this project, I improved my skills in frontend development, API integration, and responsive design.
 
 ## Notes
 This project was developed as the final project for the Web Technologies course in the second semester of my 1st year at Sakarya University.
