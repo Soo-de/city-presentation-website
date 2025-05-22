@@ -2,7 +2,7 @@
 
 This project is a web application that showcases my city’s main attractions, culture, and history using modern web technologies.
 
-![Homepage Screenshot](images/homepage.png)  
+![Homepage Screenshot](images/homapage.png)  
 ![Attractions Page](images/formcontrolpage.png)
 
 ## Technologies Used  
